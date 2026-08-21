@@ -148,12 +148,3 @@ The main things I learned today:
 ---
 
 
-
-### 📚 Resources
-
-* [OSI Model — GeeksforGeeks](https://www.geeksforgeeks.org/layers-of-osi-model/)
-* [Network Protocols — Wikipedia](https://en.wikipedia.org/wiki/List_of_network_protocols)
-* [AWS Free Tier](https://aws.amazon.com/free/)
-* [DNS Basics — Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
-* [Docker Networking — Docker Docs](https://docs.docker.com/network/)
-
